@@ -41,3 +41,6 @@ gem 'sqlite3',        group: :development
 gem 'pg',	group: :production
 
 gem 'bcrypt-ruby'
+
+gem 'rails_12factor' 
+gem 'rails_serve_static_assets'
