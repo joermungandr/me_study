@@ -44,3 +44,5 @@ gem 'bcrypt-ruby'
 
 gem 'rails_12factor' 
 gem 'rails_serve_static_assets'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
